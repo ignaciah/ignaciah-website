@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor folders
+.vscode/
+.idea/
+
+# Cloudflare / Node (if you add them later)
+node_modules/
+.wrangler/
+dist/
+
